@@ -1,0 +1,23 @@
+{
+  "name": "Casa Vista Mare",
+  "short_name": "Casa Vista Mare",
+  "description": "Prenotazioni Casa Vista Mare Vasto Marina",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#13343b",
+  "theme_color": "#21808d",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
